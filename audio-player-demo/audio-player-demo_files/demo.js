@@ -1,6 +1,6 @@
 class Demo {
   constructor() {
-    //this.audioPlayer = new AudioPlayer();
+   
     this._onSubmit = this._onSubmit.bind(this);
     this._onKick = this._onKick.bind(this);
 
